@@ -1,3 +1,3 @@
 ## Profile Web Application
 
-ReactJS Profile App (WIP)
+ReactJS CRA Bootstrap SPA for Profile Portfolio (WIP)

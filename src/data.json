@@ -1,6 +1,6 @@
 {
   "name": "Zoraiz Qureshi",
-  "title": "Research Assistant at University of Virginia",
+  "title": "Charlottesville, VA, USA",
   "loc": "Charlottesville, VA, United States",
   "email": "zoraizq@virginia.edu",
   "linkedin": "https://www.linkedin.com/in/zoraiz-qureshi/",
@@ -47,7 +47,7 @@
     {
       "title": "PhysCov - Quantifying Physical Coverage for Autonomous Drones (Microsoft AirSim)",
       "time": "Nov 2021 - Dec 2021",
-      "description": "Scaling PhysCov to 3D for drone physical coverage measurement, with real-time computation using LIDAR data from AirSim quadrotor drone.",
+      "description": "Thorough testing of autonomous systems for UAVs before their deployment is crucial to guarantee safety and mitigate costly failures. Existing software testing coverage metrics lack interpretability and these test adequacy metrics are not effective for complex AI driven autonomous vehicles. We extend PhysCov, a new physical coverage metric for autonomous vehicles, to the domain of UAVs - to measure coverage on a Software-In-The-Loop simulation tool like Microsoft AirSim.",
       "long_description": "Thorough testing of autonomous systems for UAVs before their deployment is crucial to guarantee safety and mitigate costly failures. Existing software testing coverage metrics lack interpretability and these test adequacy metrics are not effective for complex AI driven autonomous vehicles. We extend PhysCov, a new physical coverage metric for autonomous vehicles, to the domain of UAVs - to measure coverage on a Software-In-The-Loop simulation tool like Microsoft AirSim. This work is an extension of the original coverage metric proposed by Carl Hildebrandt (PhD Computer Science Student, UVA) under the supervision of Dr. Sebastian Elbaum (Professor Computer Science, UVA). Along with integration for real-time coverage measurements, we test various scenarios in AirSim using a quadrotor equipped with a LIDAR sensor under certain defined survey tasks. Based on our evaluation, we propose that gathering high coverage with PhysCov indicates testing of an adequate number of distinct behaviors for an autonomous flying system, uncovering potential failures such as collisions.",
       "link": "https://github.com/ZoraizQ/physcov_airsim_drone",
       "img": "https://github.com/ZoraizQ/physcov_airsim_drone/blob/master/assets/params.png?raw=true"
@@ -88,7 +88,7 @@
       "time": "Jul 2020",
       "description": "[Wallifornia Hackathon 2020 - 1st Place Winning Team: 1,000 € MusicTech] Use AR to project your favorite digitally-recorded piano video song from YouTube over your piano to learn by following along. Built in C# with Unity and EasyAR.",
       "long_description": "[Wallifornia Hackathon 2020 - 1st Place Winning Team: 1,000 € MusicTech] Use AR to project your favorite digitally-recorded piano video song from YouTube over your piano to learn by following along. Built in C# with Unity and EasyAR.",
-      "link": "https://devpost.com/software/hackathon-6gkwix",
+      "link": "https://devpost.com/software/pianotunesar",
       "img": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/147/132/datas/original.jpeg"
     },
     {

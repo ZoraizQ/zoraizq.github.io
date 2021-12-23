@@ -1,15 +1,12 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Lato, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
 div {
@@ -19,52 +16,83 @@ div {
     text-align: left;
 }
 
-.h1 {
+h1 {
   font-size: 2rem;
+  text-transform: uppercase;
 }
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+section {
+  margin-bottom: 1%;
+}
+
+.title-bar {
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
 
 .subheading {
-  text-transform: capitalize;
-  font-weight: 500;
-  font-size: 1.35rem;
+  text-transform: uppercase;
+  font-weight: 400;
 }
 
-.h2 {
-  font-size: 1.5rem;
+
+.social {
+  color: #343a40;
+  font-size: 1.0rem;
+  font-weight: 400;
+  margin-right: 20px;
+  margin-top: 3px;
+}
+
+.fa {
+  padding: 5px 5px 5px 0px;
+  color: #343a40;
+  font-size: 1.1rem;
+  margin-top: 5px;
+}
+
+.fa:hover {
+  color: #0056b3;
+}
+
+.card {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-top: 4%;
+}
+
+.place > small {
   font-weight: 600;
 }
 
-.h3 {
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
-.project {
-  width: 18rem;
-}
-
-.bold {
-  font-weight: 600;
-} 
-
-.time-footer{
-  margin-top: 2%;
+.time-footer {
+  margin-top: 15px;
   margin-bottom: 0;
+}
+
+.time-footer > small {
+  font-style: italic;
+  color: #41464b;
 }
 
 .name {
   font-weight: 700;
 }
-
+/* 
 .title, .name, .email {
   text-transform: uppercase;
-}
+} */
 
-.subheading {
-  font-size: 1rem;
-  font-weight: 400;
-}
-
-small {
-  font-weight: 400;
-}
+/* #profile-img {
+} */
