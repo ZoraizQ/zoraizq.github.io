@@ -84,10 +84,10 @@ function App() {
               <h2>
                 Projects:
               </h2>
-              <div class="card-columns">
+              <div class="card-columns projects">
               {
                 data.projects.map(d => 
-                  ( <div id={d.title} class="card project shadow">
+                  ( <div id={d.title} class="card shadow">
                       <img class="card-img-top" src={d.img} alt={d.title}></img>
                       <div class="card-body">
                         <h5 class="card-title">{d.title}</h5>
@@ -118,3 +118,11 @@ function App() {
 }
 
 export default App;
+
+// {
+//   "title": "Are Campus IoT Systems Secure? Investigating Security Vulnerabilities in CBORD",
+//   "time": "Sep 2021 - Dec 2021",
+//   "description": "Campus IoT systems, access and network security are crucial to the daily lives of students and faculty alike so they are usually provided by 3rd party vendors. One such example is CBORD which runs the majority of higher-education smart campuses such as the University of Virginia (UVA) managing everything from door locks and laundry machines to dining and vending. We propose to perform a component-based security analysis of common CBORD cloud web interfaces and mobile applications, for the investigation of vulnerabilities that may adversely impact data privacy and daily activity of students and faculty on campus.",
+//   "long_description": "To support rapid technological advancements in smart environments, provided utilities often compromise security for the cost of convenience, as new features are integrated in - especially in the case of management systems solely designed for academic settings. Campus IoT systems, access and network security are crucial to the daily lives of students and faculty alike so they are usually provided by 3rd party vendors. One such example is CBORD which runs the majority of higher-education smart campuses such as the University of Virginia (UVA) managing everything from door locks and laundry machines to dining and vending. However, neither research nor any audit is published on CBORD and the security of its campus IoT systems. Therefore, we propose to perform a component-based security analysis of common CBORD cloud web interfaces and mobile applications, using UVA as the case study,  for the investigation of vulnerabilities that may adversely impact data privacy and daily activity of students and faculty on campus.",
+//   "img": "https://www.studyinternational.com/wp-content/uploads/2019/11/shutterstock_309525356.jpg"
+// }

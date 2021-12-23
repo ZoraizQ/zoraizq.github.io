@@ -115,6 +115,22 @@
       "long_description": "Complex web application using the MERN stack along with Redux and Material UI. Built for the Co-Curricular Activities Office at Lahore University of Management Sciences, featuring a completely customisable Task Manager with 2 types of tasks, a Form Maker with logical components, advanced Admin settings, a Request Panel for monitoring submitted requests, a Form Viewer, and a Society dashboard for submitting forms, all the components being highly interconnected through certain features.",
       "link": "https://drive.google.com/file/d/15sXAW-AgsbtQb-sAtEeFBlGa_ncdybuQ/view?usp=sharing",
       "img": "https://i.imgur.com/ybJs5Sc.png"
+    },
+    {
+      "title": "SafarNama: Gamified Educational Virtual Touring for Pakistan",
+      "time": "Jul 2020",
+      "description": "Given the traditional teaching methods and lack of educational physical trips amid the COVID-19 pandemic, technology in education can be used as a solution to influence and motivate students to learn actively. For this purpose, we present SafarNama: a mobile Augmented Reality application with a novel approach to learning history and culture for Pakistan through gamified virtual trips using historically relevant 3D exhibits and an event-based dialogue system. The application aims to promote story-based, interactive and spatial learning as well as parental and teacher involvement and physical activity for children as they engage on virtual tours.",
+      "long_description": "Given the traditional teaching methods and lack of educational physical trips amid the COVID-19 pandemic, technology in education can be used as a solution to influence and motivate students to learn actively. For this purpose, after a thorough user research and design prototyping process, we present SafarNama: a mobile Augmented Reality application with a novel approach to learning history and culture for Pakistan through gamified virtual trips using historically relevant 3D exhibits and an event-based dialogue system. With its unique design, the application aims to promote story-based, interactive and spatial learning as well as parental and teacher involvement and physical activity for children as they engage on virtual tours. We further analyze and review our design solution through an extensive user evaluation phase to determine its impact and implications for future research.",
+      "link": "https://drive.google.com/file/d/18yr_Bmii4lxhLZcNgRa9FL_sL9e0CZIp/view?usp=sharing",
+      "img": "https://i.imgur.com/l3JvS3I.png"
+    },
+    {
+      "title": "WalkAR",
+      "time": "Sep 2021 - Dec 2021",
+      "description": "Using a physical map or a mobile navigation application for directions is a dull and single-minded experience, and the interfaces they provide do not naturally integrate into our surroundings. We present WalkAR - an Augmented Reality (AR) based navigation system focused on making on-foot navigation more enjoyable and educational using the elements of immersion, active learning and gamification combined with interactive and dynamic AR visualizations such as a virtual tour guide.",
+      "long_description": "Using a physical map or a mobile navigation application for directions is a dull and single-minded experience, and sometimes we still get lost because of the complicated instructions as the interfaces they provide do not naturally integrate into our surroundings as perfectly. We present WalkAR - an Augmented Reality (AR) based navigation system focused on making on-foot navigation more enjoyable and educational using the elements of immersion, active learning and gamification combined with interactive and dynamic AR visualizations such as a virtual tour guide.  We design and evaluate the system in the context of a tour set out for new students visiting the University of Virginia campus, demonstrating the capabilities of its distinct features for enhancing the navigation experience in circumstances where time is sufficient and users yearn to tour along the way to their destination.",
+      "link": "https://drive.google.com/file/d/1SB5K0F3cWq3dSJdaog4WmHM3x-HHyncX/view?usp=sharing",
+      "img": "https://i.imgur.com/cdwXGDO.png"
     }
   ]
 }

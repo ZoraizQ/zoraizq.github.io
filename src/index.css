@@ -68,9 +68,25 @@ section {
 }
 
 .card {
-  /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
   margin-top: 3%;
-}
+} 
+
+/* 
+.card {
+  margin-top: 3%;
+  min-width: 250px;
+} 
+
+.card-img-top {
+  max-height: 130px;
+  width: auto;
+  object-fit: cover;
+} 
+
+.projects {
+  margin-top: -3%;
+}  */
+
 
 .place > small {
   font-weight: 600;
