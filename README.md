@@ -1,3 +1,3 @@
 ## Profile Web Application
 
-ReactJS, Vite
+ReactJS Profile App (WIP)
