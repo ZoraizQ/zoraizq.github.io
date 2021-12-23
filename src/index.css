@@ -89,10 +89,44 @@ section {
 .name {
   font-weight: 700;
 }
-/* 
-.title, .name, .email {
-  text-transform: uppercase;
-} */
 
-/* #profile-img {
-} */
+
+
+#left-banner, #right-banner { 
+  display: block;
+  
+  background: #48b1bf; 
+  background-image: url("https://wallpaperaccess.com/full/2390779.png");
+  background-repeat: repeat-y;
+
+  /* background: #0F2027;  
+  background: -webkit-linear-gradient(to top, #2C5364, #203A43, #0F2027);  
+  background: linear-gradient(to top, #2C5364, #203A43, #0F2027);  */
+
+  
+  width: 4%;
+  min-height: 100%;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  
+  margin-top: -2%;
+}
+
+#left-banner {
+  float: left;
+}
+
+#right-banner {
+  float: right;
+  margin-left: 96%;
+}
+
+@media only screen and (max-width: 600px) {
+  #left-banner, #right-banner {
+    display: none;
+  }
+}
+
