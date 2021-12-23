@@ -1,10 +1,11 @@
 {
   "name": "Zoraiz Qureshi",
   "title": "Charlottesville, VA, USA",
-  "loc": "Charlottesville, VA, United States",
+  "location": "Charlottesville, VA, 22903, United States",
   "email": "zoraizq@virginia.edu",
   "linkedin": "https://www.linkedin.com/in/zoraiz-qureshi/",
   "github": "https://github.com/ZoraizQ",
+  "resume": "zoraizq.github.io/resume.pdf",
   "education": [
     {
       "role": "MS Computer Science",

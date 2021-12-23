@@ -25,6 +25,7 @@ function App() {
                 </div>
                 <a class="social" type="button" href={data.github}><i class="fa fa-github"></i>GitHub</a>
                 <a class="social" type="button" href={data.linkedin}><i class="fa fa-linkedin"></i>LinkedIn</a>
+                <a class="social" type="button" href={data.resume}><i class="fa fa-user-circle"></i>Resume</a>
               </div>
             </div>
           </div>
