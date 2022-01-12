@@ -34,7 +34,7 @@ function App() {
             
             <section class="container">
               <small>
-              I'm very interested in the applications of machine learning, specifically deep learning, for computer vision tasks like image or volume segmentation, registration and object detection. I also have prior experience with full-stack development of dynamic web applications as well as AR-based mobile applications for interactive learning.
+              I am very interested in the applications of machine learning, specifically deep learning, for computer vision tasks like image or volume segmentation, registration and object detection. I also have prior experience with full-stack development of dynamic web applications as well as AR-based mobile applications for interactive learning.
               </small>
             </section>
 
